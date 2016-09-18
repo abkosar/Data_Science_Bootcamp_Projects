@@ -1,0 +1,52 @@
+#1 eta = 0.1, seeds = 0, 1111, 1234, rounds = 250, max depth = 6, no features
+AVG AMS = 2.53612437324
+
+
+
+#4 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 100#, max depth = 6, remove phi
+AVG AMS = 2.51218529813
+
+#3 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 200#, max depth = 6, remove phi
+AVG AMS = 2.53692882435
+
+#15 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 210#, max depth = 6, remove phi
+AVG AMS = 2.5399940131
+
+#14 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 220#, max depth = 6, remove phi
+AVG AMS = 2.54583814375
+
+#13 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 230#, max depth = 6, remove phi
+AVG AMS = 2.5401304081
+
+#6 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 240#, max depth = 6, remove phi
+AVG AMS = 2.5407035992
+
+#2 eta = 0.1, seeds = 0, 1111, 1234, rounds = 250, max depth = 6, #remove phi#
+AVG AMS = 2.54424540395
+
+#7 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 260#, max depth = 6, remove phi
+AVG AMS = 2.52995588495
+
+#8 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 270#, max depth = 6, remove phi
+AVG AMS = 2.53401203737
+
+#9 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 280#, max depth = 6, remove phi
+AVG AMS = 2.54027205904
+
+#10 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 290#, max depth = 6, remove phi
+AVG AMS = 2.54025181587
+
+#5 eta = 0.1, seeds = 0, 1111, 1234, #rounds = 300#, max depth = 6, remove phi
+AVG AMS = 2.53979663427
+
+#11 eta = 0.1, seeds = 0, 1111, 1234, rounds = 250, #max depth = 5#, remove phi
+AVG AMS = 2.51508875143
+
+#12 eta = 0.1, seeds = 0, 1111, 1234, rounds = 250, #max depth = 7#, remove phi
+AVG AMS = 2.52479630604
+
+#16 eta = 0.1, seeds = 0, 1111, 1234, rounds = 220, max depth = 6, #remove phi + nF#
+AVG AMS = 2.54252379204
+
+#17 eta = 0.1, seeds = 0, 1111, 1234, rounds = 220, max depth = 6, #remove phi and PRI_jet_subleading_eta#
+AVG AMS = 2.53297161298

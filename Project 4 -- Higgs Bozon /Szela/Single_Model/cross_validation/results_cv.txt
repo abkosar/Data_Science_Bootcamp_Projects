@@ -1,0 +1,11 @@
+#1 k = 5, seed = 1234, eta = 0.1, rounds = 250
+AVG AMS = 1.6248660628
+
+#2 k = 5, seed = 1234, eta = 0.1, rounds = 260
+AVG AMS = 1.62059688225
+
+#3 k = 5, seed = 1234, eta = 0.1, rounds = 270
+AVG AMS = 1.62267156078
+
+#4 k = 5, seed = 1234, eta = 0.1, rounds = 280
+AVG AMS = 1.62106199099

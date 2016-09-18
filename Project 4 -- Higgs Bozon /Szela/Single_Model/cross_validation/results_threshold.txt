@@ -1,0 +1,68 @@
+#2 0.2 eta, 250 rounds, seed 1234, max_depth = 6
+signal = 113.746392994, background = 2142.38645052, threshold = 0.15
+AMS = 2.4306250025
+
+#17 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.10
+signal = 69.5658961188, background = 826.762518216
+AMS = 2.37267164454
+
+#16 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.11
+signal = 79.3946408375, background = 1040.26377675
+AMS = 2.41993129771
+
+#15 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.12
+signal = 88.0845904598, background = 1280.06020082
+AMS = 2.42527749117
+
+#14 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.13
+signal = 96.5181253784, background = 1532.8427781
+AMS = 2.4322679368
+
+#13 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.14
+signal = 105.844190939, background = 1793.61344262
+AMS = 2.46847227975
+
+#1 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.15
+signal = 114.661939489, background = 2089.70511876
+AMS = 2.48003286222
+
+#9 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.16
+signal = 123.60296948, background = 2447.14578823
+AMS = 2.47304423986
+
+#10 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.17
+signal = 131.920832892, background = 2786.19116908
+AMS = 2.47552597318
+
+#11 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.18
+signal = 140.032324312, background = 3181.27539524
+AMS = 2.4610218834
+
+#12 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.19
+signal = 147.983239587, background = 3583.25596752
+AMS = 2.4520400876
+
+#3 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.20
+signal = 156.146273917, background = 4042.0014133
+AMS = 2.43748904027
+
+#5 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.21
+signal = 163.615855406, background = 4571.16495609
+AMS = 2.40315906479
+
+#6 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.22
+signal = 170.742990446, background = 5089.97249364
+AMS = 2.37772843471
+
+#7 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.23
+signal = 178.378122932, background = 5697.82972122
+AMS = 2.34891457475
+
+#8 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.24
+signal = 185.287069569, background = 6445.10961215
+AMS = 2.2952776835
+
+#4 0.1 eta, 250 rounds, seed 1234, max_depth = 6, threshold = 0.25
+signal = 192.890580196, background = 7094.40416662
+AMS = 2.27824008434
+
